@@ -20,6 +20,10 @@
 ### 0;P;c;5;h;0;0l;5;0v;3;0o;2;0a;1;0f;0;1b;0
 <img src="https://i.imgur.com/BsFvIlD.png"></img>
 
+## Maath 2
+### 0;P;c;5;h;0;0l;3;0o;0;0f;0;1b;0
+<img src="https://i.imgur.com/ppkmH30.png"></img>
+
 ## Cesar
 ### 0;P;c;8;u;000000FF;h;0;b;1;0l;5;0v;4;0o;0;0a;1;0f;0;1b;0
 <img src="https://i.imgur.com/6g0WVZM.png"></img>
@@ -31,3 +35,15 @@
 ## Kyrch
 ### 0;s;1;P;c;7;h;0;d;1;z;4;a;0.78;f;0;0t;0;0l;0;0o;0;0a;0.884;0f;0;1t;0;1l;5;1o;30;1a;0.701;1m;0;1f;0;S;s;0.823;o;1
 <img src="https://i.imgur.com/pnF7s1I.png"></img>
+
+## Cardinal
+### 0;s;1;P;o;1;d;1;0b;0;1b;0
+<img src="https://i.imgur.com/JKyXAYU.png"></img>
+
+## Mário Vertical
+### 0;P;c;8;u;008000FF;t;3;o;1;b;1;0t;4;0l;0;0v;18;0g;1;0o;10;0a;1;0f;0;1t;10;1l;0;1v;4;1g;1;1o;7;1a;1;1m;0;1f;0
+<img src="https://i.imgur.com/V9WvRHS.png"></img>
+
+## Mário 2 eixos
+### 0;P;c;1;t;3;o;1;f;0;0t;6;0l;20;0o;13;0a;1;0f;0;1t;9;1l;4;1o;9;1a;1;1m;0;1f;0
+<img src="https://i.imgur.com/33kCAu7.png"></img>
