@@ -1,7 +1,7 @@
 # Valorant Crosshairs
 
 ## Less
-### 0;s;1;P;o;0.654;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0
+### ```0;s;1;P;o;0.654;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0```
 <img src="https://i.imgur.com/5YGse8p.png"></img>
 
 ## Quadrado
